@@ -1,5 +1,6 @@
-<h1>🚀 Demo</h1>
-<a href="https://juned1998.github.io/tower-of-hanoi" target="_blank">https://juned1998.github.io/tower-of-hanoi</a>
+### This Repository consists the entire flow for TOH visualization. 
+
+### This uses recursion alongside CSS changes for the implementation. Latest version --> 1.2.3
 
 <h1>🧠 Overview</h1>
 Tower of Hanoi is a classic algorithmic puzzle involving the movement of disks between rods. This project animates the solution using recursion and DOM manipulation
