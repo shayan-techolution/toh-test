@@ -1,6 +1,6 @@
 ### This Repository consists the entire flow for TOH visualization. 
 
-### This uses recursion alongside CSS changes for the implementation. Latest version --> 1.2.4 [updated for sync]
+### This uses recursion alongside CSS changes for the implementation. Latest version --> 1.2.5 [updated for sync]
 
 <h1>🧠 Overview</h1>
 Tower of Hanoi is a classic algorithmic puzzle involving the movement of disks between rods. This project animates the solution using recursion and DOM manipulation
