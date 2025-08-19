@@ -162,6 +162,11 @@ border: solid 1px #fff;
   transition: opacity .2s;
 }
 
+.custom-class {
+  width: 25px;
+  height: 20px;
+}
+
 .slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
